@@ -25,8 +25,8 @@ This project implements a Monte Carlo simulation for forecasting U.S. presidenti
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/election-simulation.git
-cd election-simulation
+git clone https://github.com/RyanBhojwani/2024-US-Election-Monte-Carlo-Simulation.git
+cd 2024-US-Election-Monte-Carlo-Simulation
 pip install -r requirements.txt
 ```
 
