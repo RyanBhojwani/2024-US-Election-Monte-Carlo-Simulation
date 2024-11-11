@@ -27,7 +27,6 @@ This project implements a Monte Carlo simulation for forecasting U.S. presidenti
 ```bash
 git clone https://github.com/RyanBhojwani/2024-US-Election-Monte-Carlo-Simulation.git
 cd 2024-US-Election-Monte-Carlo-Simulation
-pip install -r requirements.txt
 ```
 
 ## Usage
@@ -41,7 +40,7 @@ python election_simulation.py
 ```
 
 ## Input Data Format
-
+Examples of these files are provided
 ### president_polls.csv
 ```csv
 numeric_grade,state,start_date,end_date,sample_size,party,answer,pct
@@ -53,7 +52,7 @@ numeric_grade,state,start_date,end_date,sample_size,party,answer,pct
 State,Votes,in_data,Default_Vote
 AL,9,F,Trump
 ```
-Default vote is N/A if in_data is True.
+Default vote is N/A if in_data is True
 
 ## Methodology
 
